@@ -1,4 +1,4 @@
-# calc_fundamental_fraquency
+# calc_fundamental_frequency
 基本周波数を求めるスクリプトです
 
 やっていること
